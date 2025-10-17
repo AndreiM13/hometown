@@ -21,14 +21,16 @@ img {
 }
 
 #hero{
-    margin-top:0;
-    height: 500px;
     width:100%;
     background: url("/images/hero-piatra.webp");
     background-size: cover;
     
     color: #FFFFFF;
     text-shadow: 1px 1px 1px black;    
+}
+
+#hero-tilte{
+    margin-top: 60px;
 }
 
 h3,h4,p{
