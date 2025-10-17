@@ -21,8 +21,12 @@ img {
 }
 
 #hero{
+    margin:0;
+    height: 500px;
+    width:800px;
     background: url("/images/hero-piatra.webp");
     background-size: cover;
+    
     color: #FFFFFF;
     text-shadow: 1px 1px 1px black;    
 }
