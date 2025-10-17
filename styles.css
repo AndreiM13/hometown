@@ -23,7 +23,6 @@ img {
 #hero{
     background: url("/images/hero-piatra.webp");
     background-size: cover;
-    padding: 50px;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px black;    
 }
